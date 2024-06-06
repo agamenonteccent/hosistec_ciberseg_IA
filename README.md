@@ -1,4 +1,4 @@
-# Título do Projeto - HOSISTEC-Cibersegurança com IA;)
+# Título do Projeto - HOSISTEC-Cibersegurança com IA
 
 ## 📒 Descrição
 No entanto a ideia apresentado de cibersegurança com inteligência artificial podem direcionar seus serviços com empresas de pequenas e grandes portes com fundamentos diferentes nas suas plataformas digitais, buscando solucionar a segurança dos seus dados com a IA HOSI.   
